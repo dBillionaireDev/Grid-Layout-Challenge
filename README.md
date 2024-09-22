@@ -16,8 +16,6 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -36,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-qZ8YLH5y87
 - Live Site URL: https://frontend-mentor-bento-grid.vercel.app/
 
 ## My process
